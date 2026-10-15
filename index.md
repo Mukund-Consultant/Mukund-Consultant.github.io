@@ -1,6 +1,6 @@
 # Muaxis Consulting
 
-![Muaxis Consulting Logo](assets/logo.png)
+![Muaxis Consulting Logo](assets/muaxis-horizontal-master-tagline-option-2-light.png)
 
 ## Mukundhan S
 ### Independent Consultant | Energy & Utilities Digital & AI Transformation Expert
