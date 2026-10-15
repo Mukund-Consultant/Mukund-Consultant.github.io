@@ -59,4 +59,4 @@ An advisory-first decision intelligence layer designed specifically for asset-in
 If your leadership team is looking to navigate legacy modernization, derisk AI implementations, or optimize infrastructure operations, let's connect.
 
 * **Business Email:** [mukund@muaxisconsulting.com](mailto:mukund@muaxisconsulting.com)
-* **Professional Network:** [Connect with me on LinkedIn](https://www.linkedin.com/in/mukundhan-s-71b6594) *(Replace this text with your actual LinkedIn link URL)*
+* **Professional Network:** [Connect with me on LinkedIn](https://www.linkedin.com/in/mukundhan-s-71b6594)
