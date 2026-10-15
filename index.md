@@ -17,8 +17,8 @@ As a former **Cognizant Director** and **Wipro Delivery Head**, I bridge the gap
 ### 🛠️ Strategic Frameworks & Advisory Offerings
 
 <div style="padding: 15px; border-left: 4px solid #0056b3; background-color: #f4f7fa; margin-bottom: 20px; border-radius: 4px;">
-  <strong>Asset-Agentic Value Realization (A²VR™) Framework</strong><br>
-  An advisory-first decision intelligence layer for asset-intensive sectors.
+  <h3 style="margin-top: 0; color: #0056b3; font-size: 1.2em;">🔹 Asset-Agentic Value Realization (A²VR™) Framework</h3>
+  An advisory-first decision intelligence layer designed specifically for asset-intensive sectors (Energy, Utilities, Manufacturing, Transportation). This multi-agent AI architecture detects, ranks, and explains critical operational and commercial decisions related to physical infrastructure.
 </div>
 
 <div style="padding: 15px; border-left: 4px solid #0056b3; background-color: #f4f7fa; margin-bottom: 20px; border-radius: 4px;">
