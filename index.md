@@ -16,20 +16,27 @@ As a former **Cognizant Director** and **Wipro Delivery Head**, I bridge the gap
 
 ### 🛠️ Strategic Frameworks & Advisory Offerings
 
-> [!NOTE]
-> ### 🔹 Asset-Agentic Value Realization (A²VR™) Framework
-> An advisory-first decision intelligence layer designed specifically for asset-intensive sectors (Energy, Utilities, Manufacturing, Transportation). This multi-agent AI architecture detects, ranks, and explains critical operational and commercial decisions related to physical infrastructure.
+<div style="padding: 15px; border-left: 4px solid #0056b3; background-color: #f4f7fa; margin-bottom: 20px; border-radius: 4px;">
+  <strong>Asset-Agentic Value Realization (A²VR™) Framework</strong><br>
+  An advisory-first decision intelligence layer for asset-intensive sectors.
+</div>
 
-> [!NOTE]
-> ### 🔹 AI Value Realization & Strategy
-> * **PE Investment Due Diligence:** Clear frameworks linking AI experimentation to measurable commercial ROI to validate tech investments.
-> * **Responsible AI Validation:** High-soundness prompting and stress-testing methodologies to move deep-research AI models safely from test environments to secure enterprise production.
-> * **Institutional Innovation Strategy:** Foundational blueprints for research think tanks and policy groups to shape domain conversations proactively through data.
+<div style="padding: 15px; border-left: 4px solid #0056b3; background-color: #f4f7fa; margin-bottom: 20px; border-radius: 4px;">
+  <h3 style="margin-top: 0; color: #0056b3; font-size: 1.2em;">🔹 AI Value Realization & Strategy</h3>
+  <ul>
+    <li><strong>PE Investment Due Diligence:</strong> Frameworks linking AI experimentation to measurable ROI.</li>
+    <li><strong>Responsible AI Validation:</strong> Soundness prompting and stress-testing methodologies.</li>
+    <li><strong>Institutional Innovation Strategy:</strong> Foundational blueprints for research groups.</li>
+  </ul>
+</div>
 
-> [!NOTE]
-> ### 🔹 Enterprise Infrastructure Advisory
-> * **Fractional CTO & Platform Evaluation:** Engineered matrix evaluations for Utilities COTS platforms and structural application rationalization to uncover immediate run-cost reductions.
-> * **GTM & Market Expansion:** Designing 18–24 month localized growth roadmaps for international Cloud and SaaS companies expanding into the Indian enterprise market.
+<div style="padding: 15px; border-left: 4px solid #0056b3; background-color: #f4f7fa; margin-bottom: 20px; border-radius: 4px;">
+  <h3 style="margin-top: 0; color: #0056b3; font-size: 1.2em;">🔹 Enterprise Infrastructure Advisory</h3>
+  <ul>
+    <li><strong>Fractional CTO & Platform Evaluation:</strong> Structural application rationalization.</li>
+    <li><strong>GTM & Market Expansion:</strong> Growth roadmaps for international companies.</li>
+  </ul>
+</div>
 
 ---
 
