@@ -1,4 +1,4 @@
-# Muaxis Consulting
+# MuAxis Consulting & Advisory
 
 ![Muaxis Consulting Logo](assets/muaxis-horizontal-master-tagline-option-2-light.png)
 
