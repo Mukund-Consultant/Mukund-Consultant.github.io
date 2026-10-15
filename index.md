@@ -45,30 +45,26 @@ As a former **Cognizant Director** and **Wipro Delivery Head**, I bridge the gap
 ### 📊 Track Record of Measurable Impact
 
 <div style="padding: 15px; border-left: 4px solid #28a745; background-color: #f7faf8; margin-bottom: 20px; border-radius: 4px;">
-  <p style="margin-top: 0; margin-bottom: 8px; color: #28a745; font-weight: bold; font-size: 1.1em;">📈 Operational Efficiency</p>
-  <ul style="list-style-type: none; margin-bottom: 0; padding-left: 20px;">
-    <li style="color: #333333; line-height: 1.6;">Engineered AI/IoT municipal transformations yielding a 20%+ efficiency gain in waste management and a 15–20% boost in asset revenue.</li>
-  </ul>
+  <p style="margin-top: 0; margin-bottom: 0; color: #333333; line-height: 1.6; padding-left: 20px;">
+    <strong>Operational Efficiency:</strong> Engineered AI/IoT municipal transformations yielding a 20%+ efficiency gain in waste management and a 15–20% boost in asset revenue.
+  </p>
 </div>
 
 <div style="padding: 15px; border-left: 4px solid #28a745; background-color: #f7faf8; margin-bottom: 20px; border-radius: 4px;">
-  <p style="margin-top: 0; margin-bottom: 8px; color: #28a745; font-weight: bold; font-size: 1.1em;">🌟 Customer Experience Transformation</p>
-  <ul style="list-style-type: none; margin-bottom: 0; padding-left: 20px;">
-    <li style="color: #333333; line-height: 1.6;">Delivered a +52 NPS point jump (from -20 to +32) and saved $2.5M through large-scale retail utility transformation programs.</li>
-  </ul>
+  <p style="margin-top: 0; margin-bottom: 0; color: #333333; line-height: 1.6; padding-left: 20px;">
+    <strong>Customer Experience Transformation:</strong> Delivered a +52 NPS point jump (from -20 to +32) and saved $2.5M through large-scale retail utility transformation programs.
+  </p>
 </div>
 
 <div style="padding: 15px; border-left: 4px solid #28a745; background-color: #f7faf8; margin-bottom: 20px; border-radius: 4px;">
-  <p style="margin-top: 0; margin-bottom: 8px; color: #28a745; font-weight: bold; font-size: 1.1em;">✂️ Cost Reduction & Scalability</p>
-  <ul style="list-style-type: none; margin-bottom: 0; padding-left: 20px;">
-    <li style="color: #333333; line-height: 1.6;">Designed a shared services strategy for a major fuel retailer delivering a roadmap for 35–45% operational cost reduction.</li>
-  </ul>
+  <p style="margin-top: 0; margin-bottom: 0; color: #333333; line-height: 1.6; padding-left: 20px;">
+    <strong>Cost Reduction & Scalability:</strong> Designed a shared services strategy for a major fuel retailer delivering a roadmap for 35–45% operational cost reduction.
+  </p>
 </div>
 
 <div style="padding: 15px; border-left: 4px solid #28a745; background-color: #f7faf8; margin-bottom: 20px; border-radius: 4px;">
-  <p style="margin-top: 0; margin-bottom: 8px; color: #28a745; font-weight: bold; font-size: 1.1em;">⚙️ Massive Scale Integration</p>
-  <p style="list-style-type: none; margin-bottom: 0; padding-left: 20px;">
-    <li style="color: #333333; line-height: 1.6;">Orchestrated the replacement of 30+ legacy systems with a unified real-time SCADA integration framework for a major UK utility gas network.</li>
+  <p style="margin-top: 0; margin-bottom: 0; color: #333333; line-height: 1.6; padding-left: 20px;">
+    <strong>Massive Scale Integration:</strong> Orchestrated the replacement of 30+ legacy systems with a unified real-time SCADA integration framework for a major UK utility gas network.
   </p>
 </div>
 
