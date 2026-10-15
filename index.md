@@ -17,19 +17,19 @@ As a former **Cognizant Director** and **Wipro Delivery Head**, I bridge the gap
 ### 🛠️ Strategic Frameworks & Advisory Offerings
 
 > [!NOTE]
-> **Asset-Agentic Value Realization (A²VR™) Framework**
+> ### 🔹 Asset-Agentic Value Realization (A²VR™) Framework
 > An advisory-first decision intelligence layer designed specifically for asset-intensive sectors (Energy, Utilities, Manufacturing, Transportation). This multi-agent AI architecture detects, ranks, and explains critical operational and commercial decisions related to physical infrastructure.
 
 > [!NOTE]
-> **AI Value Realization & Strategy**
-> **PE Investment Due Diligence:** Clear frameworks linking AI experimentation to measurable commercial ROI to validate tech investments.
-> **Responsible AI Validation:** High-soundness prompting and stress-testing methodologies to move deep-research AI models safely from test environments to secure enterprise production.
-> **Institutional Innovation Strategy:** Foundational blueprints for research think tanks and policy groups to shape domain conversations proactively through data.
+> ### 🔹 AI Value Realization & Strategy
+> * **PE Investment Due Diligence:** Clear frameworks linking AI experimentation to measurable commercial ROI to validate tech investments.
+> * **Responsible AI Validation:** High-soundness prompting and stress-testing methodologies to move deep-research AI models safely from test environments to secure enterprise production.
+> * **Institutional Innovation Strategy:** Foundational blueprints for research think tanks and policy groups to shape domain conversations proactively through data.
 
 > [!NOTE]
-> **Enterprise Infrastructure Advisory**
-> **Fractional CTO & Platform Evaluation:** Engineered matrix evaluations for Utilities COTS platforms and structural application rationalization to uncover immediate run-cost reductions.
-> **GTM & Market Expansion:** Designing 18–24 month localized growth roadmaps for international Cloud and SaaS companies expanding into the Indian enterprise market.
+> ### 🔹 Enterprise Infrastructure Advisory
+> * **Fractional CTO & Platform Evaluation:** Engineered matrix evaluations for Utilities COTS platforms and structural application rationalization to uncover immediate run-cost reductions.
+> * **GTM & Market Expansion:** Designing 18–24 month localized growth roadmaps for international Cloud and SaaS companies expanding into the Indian enterprise market.
 
 ---
 
