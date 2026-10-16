@@ -1,11 +1,5 @@
-<style>
-  .main-content { display: flex; flex-direction: column; align-items: center; }
-  .logo-container { width: 100%; display: flex; justify-content: center; margin-top: -10px; margin-bottom: 35px; }
-  .main-content > * { width: 100%; text-align: left; display: flex; flex-direction: column; align-items: flex-start; }
-  .main-content > .logo-container { align-items: center; }
-</style>
-<div class="logo-container">
-  <img src="assets/muaxis-horizontal-master-tagline-option-2-light.png" alt="MuAxis Consulting Logo" style="width: 500px; max-width: 95%; height: auto;">
+<div style="width: 100%; display: block; text-align: center; margin-top: -10px; margin-bottom: 35px;">
+  <img src="assets/muaxis-horizontal-master-tagline-option-2-light.png" alt="MuAxis Consulting Logo" style="display: inline-block; width: 500px; max-width: 95%; height: auto; padding-left: 32px;">
 </div>
 
 ## Mukundhan S
