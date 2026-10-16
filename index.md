@@ -88,9 +88,9 @@ As a former **Cognizant Director** and **Wipro Delivery Head**, I bridge the gap
     <li style="margin-bottom: 6px;"><strong>General Management Program (EGMP)</strong> | IIM Bangalore</li>
     <li style="margin-bottom: 0;"><strong>Master’s Degree in Science</strong></li>
   </ul>
-  <p style="margin-top: 12px; margin-bottom: 0; padding-left: 20px; color: #555555; font-style: italic; line-height: 1.6;">
+  <div style="margin-left: 0px; margin-top: 12px; margin-bottom: 0; color: #555555; font-style: italic; line-height: 1.6;">
     Professional Trainings, Certifications: Google Cloud Professional Tracks (Digital Transformation, Data & AI Innovation, Cloud Security & Operations), Shipley's Winning Proposal Writing
-  </p>
+  </div>
 </div>
 
 ---
