@@ -33,9 +33,9 @@ As a former **Cognizant Director** and **Wipro Delivery Head**, I bridge the gap
 </div>
 
 <div style="padding: 15px; border-left: 4px solid #0056b3; background-color: #f4f7fa; margin-bottom: 20px; border-radius: 4px;">
-  <h3 style="margin-top: 0; color: #0056b3; font-size: 1.2em;">🔹 Enterprise Infrastructure Advisory</h3>
+  <h3 style="margin-top: 0; color: #0056b3; font-size: 1.2em;">🔹 Enterprise Transformation Advisory</h3>
   <ul>
-    <li><strong>Fractional CTO & Platform Evaluation:</strong> Structural application rationalization.</li>
+    <li><strong>Fractional CTO & Platform Evaluation:</strong> Structural application rationalization, Domain Product assessments.</li>
     <li><strong>GTM & Market Expansion:</strong> Growth roadmaps for international companies.</li>
   </ul>
 </div>
@@ -61,8 +61,8 @@ As a former **Cognizant Director** and **Wipro Delivery Head**, I bridge the gap
 <div style="padding: 15px; border-left: 4px solid #28a745; background-color: #f7faf8; margin-bottom: 20px; border-radius: 4px;">
   <p style="margin-top: 0; margin-bottom: 8px; color: #28a745; font-weight: bold; font-size: 1.1em;">✂️ Cost Reduction & Scalability</p>
   <ul style="list-style-type: none; margin-bottom: 0; padding-left: 20px;">
-    <li style="color: #333333; line-height: 1.6;">Crafted an enterprise-wide Shared Services Strategy across HR, procurement, finance, and customer service for a major global fuel retailer, delivering an operationalroadmap for potential 35-40% cost reduction.</li>
-  </ul>
+    <li style="color: #333333; line-height: 1.6;">Crafted an enterprise-wide Shared Services Strategy across HR, procurement, finance, and customer service for a major global fuel retailer, delivering an operational roadmap for potential 35-40% cost reduction.</li>
+  </ul> 
 </div>
 
 <div style="padding: 15px; border-left: 4px solid #28a745; background-color: #f7faf8; margin-bottom: 20px; border-radius: 4px;">
