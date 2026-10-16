@@ -1,7 +1,6 @@
 
-<div style="text-align: center; width: 100%; display: block; margin: 20px auto;">
-  <img src="assets/muaxis-horizontal-master-tagline-option-2-light.png" alt="MuAxis Consulting Logo" style="display: inline-block; max-width: 250px; height: auto; margin: 0 auto;">
-</div>
+<img src="assets/muaxis-horizontal-master-tagline-option-2-light.png" alt="MuAxis Consulting Logo" style="display: block !important; margin: 30px auto !important; max-width: 250px; height: auto;">
+
 
 ## Mukundhan S
 ### Independent Consultant | Digital & AI Transformation Expert | Energy & Utilities
