@@ -8,7 +8,7 @@
 ---
 
 ### 🎯 Core Value Proposition
-Enterprise digital transformation and AI strategy leader with **25+ years of domain authority** advising Fortune 500 and global infrastructure clients across electricity, gas, oil, water, renewable energy, and smart cities. 
+Enterprise digital transformation and AI strategy leader with **25+ years of domain authority** advising Fortune 500 and global clients across asset-intensive sectors, including electricity, gas, oil, water, renewable energy, and smart cities. 
 
 As a former **Cognizant Director** and **Wipro Delivery Head**, I bridge the gap between complex technical architectures (AI/ML, data engineering, cloud) and C-suite business strategies, managing portfolios up to **$50M+** and delivery teams of **250–700+ professionals**.
 
@@ -47,28 +47,28 @@ As a former **Cognizant Director** and **Wipro Delivery Head**, I bridge the gap
 <div style="padding: 15px; border-left: 4px solid #28a745; background-color: #f7faf8; margin-bottom: 20px; border-radius: 4px;">
   <p style="margin-top: 0; margin-bottom: 8px; color: #28a745; font-weight: bold; font-size: 1.1em;">📈 Operational Efficiency</p>
   <ul style="list-style-type: none; margin-bottom: 0; padding-left: 20px;">
-    <li style="color: #333333; line-height: 1.6;">Engineered AI/IoT municipal transformations yielding a 20%+ efficiency gain in waste management and a 15–20% boost in asset revenue.</li>
+    <li style="color: #333333; line-height: 1.6;">Led Digital/AI/IoT municipal transformations yielding a 20%+ efficiency gain in waste management, public green space operations, and a 15–20% boost in municipal asset revenue.</li>
   </ul>
 </div>
 
 <div style="padding: 15px; border-left: 4px solid #28a745; background-color: #f7faf8; margin-bottom: 20px; border-radius: 4px;">
   <p style="margin-top: 0; margin-bottom: 8px; color: #28a745; font-weight: bold; font-size: 1.1em;">🌟 Customer Experience Transformation</p>
   <ul style="list-style-type: none; margin-bottom: 0; padding-left: 20px;">
-    <li style="color: #333333; line-height: 1.6;">Delivered a +52 NPS point jump (from -20 to +32) and saved $2.5M through large-scale retail utility transformation programs.</li>
+    <li style="color: #333333; line-height: 1.6;">Delivered a +52 NPS point jump (from -20 to +32) and saved $2.5M through large-scale CX utility transformation programs.</li>
   </ul>
 </div>
 
 <div style="padding: 15px; border-left: 4px solid #28a745; background-color: #f7faf8; margin-bottom: 20px; border-radius: 4px;">
   <p style="margin-top: 0; margin-bottom: 8px; color: #28a745; font-weight: bold; font-size: 1.1em;">✂️ Cost Reduction & Scalability</p>
   <ul style="list-style-type: none; margin-bottom: 0; padding-left: 20px;">
-    <li style="color: #333333; line-height: 1.6;">Architected an enterprise-wide Shared Services Strategy across HR, procurement, finance, and customer service for a major global fuel retailer.</li>
+    <li style="color: #333333; line-height: 1.6;">Crafted an enterprise-wide Shared Services Strategy across HR, procurement, finance, and customer service for a major global fuel retailer, delivering an operationalroadmap for potential 35-40% cost reduction.</li>
   </ul>
 </div>
 
 <div style="padding: 15px; border-left: 4px solid #28a745; background-color: #f7faf8; margin-bottom: 20px; border-radius: 4px;">
   <p style="margin-top: 0; margin-bottom: 8px; color: #28a745; font-weight: bold; font-size: 1.1em;">⚙️ Massive Scale Integration</p>
   <div style="color: #333333; line-height: 1.6; padding-left: 20px;">
-    Orchestrated the replacement of 30+ legacy systems with a unified real-time SCADA integration framework for a major UK utility gas network.
+    Managed the replacement and integration of 30+ systems with a unified real-time SCADA integration system for a major UK utility gas network.
   </div>
 </div>
 
@@ -82,10 +82,10 @@ As a former **Cognizant Director** and **Wipro Delivery Head**, I bridge the gap
 ---
 
 ### 🎓 Education & Credentials
-* **Executive PG Diploma in ML & AI (GenAI)** | IIIT Bangalore
-* **Executive General Management Program (EGMP)** | IIM Bangalore
+* **Executive Diploma in ML & AI (GenAI Track)** | IIIT Bangalore
+* **General Management Program (EGMP)** | IIM Bangalore
 * **Master’s Degree in Science**
-* *Certifications:* Google Cloud Professional Tracks (Digital Transformation, Data & AI Innovation, Cloud Security & Operations)
+* *Professional Trainings, Certifications:* Google Cloud Professional Tracks (Digital Transformation, Data & AI Innovation, Cloud Security & Operations), Shipley's Winning Proposal Writing
 
 ---
 
