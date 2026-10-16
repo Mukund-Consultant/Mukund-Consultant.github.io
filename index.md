@@ -2,7 +2,7 @@
 ![Muaxis Consulting Logo](assets/muaxis-horizontal-master-tagline-option-2-light.png)
 
 ## Mukundhan S
-### Independent Consultant | Energy & Utilities Digital & AI Transformation Expert
+### Independent Consultant | Digital & AI Transformation Expert | Energy & Utilities
 **Location:** Bangalore, India | **Email:** mukund@muaxisconsulting.com
 
 ---
