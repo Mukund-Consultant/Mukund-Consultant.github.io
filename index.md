@@ -67,9 +67,9 @@ As a former **Cognizant Director** and **Wipro Delivery Head**, I bridge the gap
 
 <div style="padding: 15px; border-left: 4px solid #28a745; background-color: #f7faf8; margin-bottom: 20px; border-radius: 4px;">
   <p style="margin-top: 0; margin-bottom: 8px; color: #28a745; font-weight: bold; font-size: 1.1em;">⚙️ Massive Scale Integration</p>
-  <ul style="list-style-type: none; margin-bottom: 0; padding-left: 20px;">
-    <li style="color: #333333; line-height: 1.6;">Orchestrated the replacement of 30+ legacy systems with a unified real-time SCADA integration framework for a major UK utility gas network.</li>
-  </ul>
+  <div style="color: #333333; line-height: 1.6; padding-left: 20px;">
+    Orchestrated the replacement of 30+ legacy systems with a unified real-time SCADA integration framework for a major UK utility gas network.
+  </div>
 </div>
 
 ---
