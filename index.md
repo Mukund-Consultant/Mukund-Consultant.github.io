@@ -82,15 +82,21 @@ As a former **Cognizant Director** and **Wipro Delivery Head**, I bridge the gap
 ---
 
 ### 🎓 Education & Credentials
-* **Executive Diploma in ML & AI (GenAI Track)** | IIIT Bangalore
-* **General Management Program (EGMP)** | IIM Bangalore
-* **Master’s Degree in Science**
-* *Professional Trainings, Certifications:* Google Cloud Professional Tracks (Digital Transformation, Data & AI Innovation, Cloud Security & Operations), Shipley's Winning Proposal Writing
+<div style="padding: 15px; border-left: 4px solid #0056b3; background-color: #f4f7fa; margin-bottom: 20px; border-radius: 4px;">
+  <ul style="margin-bottom: 12px; padding-left: 20px; color: #333333; line-height: 1.8;">
+    <li><strong>Executive Diploma in ML & AI (GenAI Track)</strong> | IIIT Bangalore</li>
+    <li><strong>General Management Program (EGMP)</strong> | IIM Bangalore</li>
+    <li><strong>Master’s Degree in Science</strong></li>
+  </ul>
+  <p style="margin-bottom: 0; padding-left: 20px; color: #555555; font-style: italic; line-height: 1.6;">
+    Professional Trainings, Certifications: Google Cloud Professional Tracks (Digital Transformation, Data & AI Innovation, Cloud Security & Operations), Shipley's Winning Proposal Writing
+  </p>
+</div>
 
 ---
 
 ### 📩 Contact & Advisory Inquiries
-If your leadership team is looking to navigate legacy modernization, derisk AI implementations, or optimize infrastructure operations, let's connect.
+If your leadership team is looking to navigate legacy modernization, accelerate Digital & AI adoption and transformation, derisk AI implementations, or optimize business operations, let's connect.
 
 * **Business Email:** [mukund@muaxisconsulting.com](mailto:mukund@muaxisconsulting.com)
 * **Professional Network:** [Connect with me on LinkedIn](https://www.linkedin.com/in/mukundhan-s-71b6594)
