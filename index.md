@@ -1,5 +1,7 @@
 
-![Muaxis Consulting Logo](assets/muaxis-horizontal-master-tagline-option-2-light.png)
+<div style="text-align: center;">
+  <img src="assets/muaxis-horizontal-master-tagline-option-2-light.png" alt="MuAxis Consulting Logo" style="max-width: 100%; height: auto;">
+</div>
 
 ## Mukundhan S
 ### Independent Consultant | Digital & AI Transformation Expert | Energy & Utilities
@@ -100,3 +102,7 @@ If your leadership team is looking to navigate legacy modernization, accelerate 
 
 * **Business Email:** [mukund@muaxisconsulting.com](mailto:mukund@muaxisconsulting.com)
 * **Professional Network:** [Connect with me on LinkedIn](https://www.linkedin.com/in/mukundhan-s-71b6594)
+
+<style>
+  .site-footer { display: none !important; }
+</style>
