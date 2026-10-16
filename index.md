@@ -1,5 +1,5 @@
-<div style="text-align: center; display: block; width: 100%; margin-top: -10px; margin-bottom: 35px;">
-  <img src="assets/muaxis-horizontal-master-tagline-option-2-light.png" alt="MuAxis Consulting Logo" style="display: inline-block !important; width: 650px; max-width: 95%; height: auto; margin: 0 auto !important;">
+<div style="display: grid; place-items: center; width: 100%; margin-top: -10px; margin-bottom: 35px; margin-left: auto !important; margin-right: auto !important;">
+  <img src="assets/muaxis-horizontal-master-tagline-option-2-light.png" alt="MuAxis Consulting Logo" style="width: 500px; max-width: 95%; height: auto; display: block; margin: 0 auto !important;">
 </div>
 
 ## Mukundhan S
