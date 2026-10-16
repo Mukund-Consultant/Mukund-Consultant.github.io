@@ -9,3 +9,6 @@
     For immediate inquiries, please contact: <a href="mailto:mukund@muaxisconsulting.com">mukund@muaxisconsulting.com</a>
   </p>
 </div>
+<style>
+  .site-footer { display: none !important; }
+</style>
