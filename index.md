@@ -9,7 +9,6 @@
   <img src="assets/muaxis-horizontal-master-tagline-option-2-light.png" alt="MuAxis Consulting Logo" style="width: 500px; max-width: 95%; height: auto;">
 </div>
 
-
 ## Mukundhan S
 ### Independent Consultant | Digital & AI Transformation Expert | Energy & Utilities
 **Location:** Bangalore, India | **Email:** mukund@muaxisconsulting.com
