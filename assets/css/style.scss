@@ -8,15 +8,16 @@
   overflow: hidden;
 }
 
+/* Desktop and larger screens */
 .page-header::before {
   content: "";
   position: absolute;
   inset: 0;
   background-image: url("../images/muaxis-app-icon-light-transparent.png");
   background-repeat: no-repeat;
-  background-position: 76% 50%;
-  background-size: clamp(190px, 23vw, 320px);
-  opacity: 0.12;
+  background-position: 84% 50%;
+  background-size: clamp(210px, 26vw, 360px);
+  opacity: 0.20;
   pointer-events: none;
 }
 
@@ -25,10 +26,11 @@
   z-index: 1;
 }
 
+/* Mobile screens */
 @media screen and (max-width: 42em) {
   .page-header::before {
-    background-position: 88% 50%;
-    background-size: 170px;
-    opacity: 0.08;
+    background-position: 90% 50%;
+    background-size: 180px;
+    opacity: 0.10;
   }
 }
