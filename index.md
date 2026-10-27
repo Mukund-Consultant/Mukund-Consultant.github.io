@@ -6,7 +6,7 @@
 
 ## Mukundhan S
 ### Independent Consultant | Digital & AI Transformation Expert | Energy & Utilities
-**Location:** Bangalore, India | **Email:** mukund@muaxisconsulting.com
+**Location:** India | **Email:** mukund@muaxisconsulting.com
 
 ---
 
