@@ -77,10 +77,11 @@ As a former **Cognizant Director** and **Wipro Delivery Head**, I bridge the gap
 
 ---
 
-### 🎛️ Technical Fluency & Tooling
+### 🎛️ Technical Fluency, Awareness & Tooling
 * **AI/ML & Data:** Python, SQL, ML Fundamentals, ETL/ELT Pipelines (PySpark), Advanced Statistical Analysis.
-* **Cloud & Infra:** Docker, Kubernetes, SaaS Platforms, Infrastructure Modernization, Google Cloud Suite.
-* **Enterprise & Analytics:** Oracle, Microsoft, FastAPI, Tableau, Power BI, Business/Cost Modeling.
+* **Cloud & Infra:** Docker, SaaS Platforms, Infrastructure Modernization, Google Cloud Suite.
+* **Enterprise:** SAP For Utilities (IS-U), Oracle, Microsoft, FastAPI, SQL, MongoDB.
+* **Analytics:** Predictive Models (Propensity to Pay, Customer Churn), Business/Cost Modeling, Tableau, Power BI.
 
 ---
 
