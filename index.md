@@ -27,7 +27,7 @@ As a **Principal Consultant** and **Technology Advisor**, I bridge the gap betwe
 </div>
 
 <div style="padding: 15px; border-left: 4px solid #0056b3; background-color: #f4f7fa; margin-bottom: 20px; border-radius: 4px;">
-  <h3 style="margin-top: 0; color: #0056b3; font-size: 1.2em;">🔹 AI Value Realization & Strategy</h3>
+  <h3 style="margin-top: 0; color: #0056b3; font-size: 1.2em;">🔹 AI Performance & Operating Strategy</h3>
   <ul>
     <li><strong>PE Investment Due Diligence:</strong> Frameworks linking AI experimentation to measurable ROI.</li>
     <li><strong>Responsible AI Validation:</strong> Soundness prompting and stress-testing methodologies.</li>
