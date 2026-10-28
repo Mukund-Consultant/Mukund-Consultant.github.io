@@ -13,7 +13,7 @@
 ### 🎯 Core Value Proposition
 Enterprise digital transformation and AI strategy leader with **25+ years of domain authority** advising Fortune 500 and global clients across asset-intensive sectors, including electricity, gas, oil, water, renewable energy, and smart cities. 
 
-As a former **Cognizant Director** and **Wipro Delivery Head**, I bridge the gap between complex technical architectures (AI/ML, data engineering, cloud) and C-suite business strategies, managing portfolios up to **$50M+** and delivery teams of **250–700+ professionals**.
+As a **Principal Consultant** and **Technology Advisor**, I bridge the gap between complex technical architectures (AI/ML, data engineering, cloud) and C-suite business strategies, managing portfolios up to **$50M+** and delivery teams of **250–700+ professionals**.
 
 ---
 
