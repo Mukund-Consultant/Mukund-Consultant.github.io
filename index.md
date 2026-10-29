@@ -4,7 +4,7 @@
 </div>
 -->
 
-## Mukundhan S
+<!--## Mukundhan S-->
 ### Independent Consultant | Digital & AI Transformation Expert | Energy & Utilities
 **Location:** India | **Email:** mukund@muaxisconsulting.com
 
