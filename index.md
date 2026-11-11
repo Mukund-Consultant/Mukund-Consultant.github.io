@@ -78,22 +78,26 @@ As a **Principal Consultant** and **Technology Advisor**, I bridge the gap betwe
 ---
 
 ### 🎛️ Technical Fluency, Awareness & Tooling
-* **AI/ML & Data:** Python, SQL, ML Fundamentals, ETL/ELT Pipelines (PySpark), Advanced Statistical Analysis.
-* **Cloud & Infra:** Docker, SaaS Platforms, Infrastructure Modernization, Google Cloud Suite.
-* **Enterprise:** SAP For Utilities (IS-U), Oracle, Microsoft, FastAPI, SQL, MongoDB.
-* **Analytics:** Predictive Models (Propensity to Pay, Customer Churn), Business/Cost Modeling, Tableau, Power BI.
+<div style="padding: 15px; border-left: 4px solid #0056b3; background-color: #f4f7fa; margin-bottom: 20px; border-radius: 4px;">
+  <ul style="margin-bottom: 12px; padding-left: 20px; color: #333333; line-height: 1.8; list-style-type: disc;">
+    <li style="margin-bottom: 6px;"><strong>AI/ML &amp; Data:</strong> Python, SQL, ML Fundamentals, ETL/ELT Pipelines (PySpark), Advanced Statistical Analysis.</li>
+    <li style="margin-bottom: 6px;"><strong>Cloud &amp; Infra:</strong> Docker, SaaS Platforms, Infrastructure Modernization, Google Cloud Suite.</li>
+    <li style="margin-bottom: 6px;"><strong>Enterprise:</strong> SAP For Utilities (IS-U), Oracle, Microsoft, FastAPI, SQL, MongoDB.</li>
+    <li style="margin-bottom: 0;"><strong>Analytics:</strong> Predictive Models (Propensity to Pay, Customer Churn), Business/Cost Modeling, Tableau, Power BI.</li>
+  </ul>
+</div>
 
 ---
 
 ### 🎓 Education & Credentials
-<div style="padding: 15px; border-left: 4px solid #0056b3; background-color: #f4f7fa; margin-bottom: 20px; border-radius: 4px;">
+<div style="padding: 15px; border-left: 4px solid #2e7d32; background-color: #f4f7fa; margin-bottom: 20px; border-radius: 4px;">
   <ul style="margin-bottom: 12px; padding-left: 20px; color: #333333; line-height: 1.8; list-style-type: disc;">
-    <li style="margin-bottom: 6px;"><strong>Executive Diploma in ML & AI (GenAI Track)</strong> | IIIT Bangalore</li>
+    <li style="margin-bottom: 6px;"><strong>Executive Diploma in ML &amp; AI (GenAI Track)</strong> | IIIT Bangalore</li>
     <li style="margin-bottom: 6px;"><strong>General Management Program (EGMP)</strong> | IIM Bangalore</li>
     <li style="margin-bottom: 0;"><strong>Master’s Degree in Science</strong></li>
   </ul>
   <div style="margin-left: 0px; margin-top: 12px; margin-bottom: 0; color: #555555; font-style: italic; line-height: 1.6;">
-    Professional Trainings, Certifications: Google Cloud Professional Tracks (Digital Transformation, Data & AI Innovation, Cloud Security & Operations), Shipley's Winning Proposal Writing
+    Professional Trainings, Certifications: Google Cloud Professional Tracks (Digital Transformation, Data &amp; AI Innovation, Cloud Security &amp; Operations), Shipley's Winning Proposal Writing
   </div>
 </div>
 
